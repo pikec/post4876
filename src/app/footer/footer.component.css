@@ -1,0 +1,13 @@
+.footer {
+    position: absolute;
+    bottom: 0 px;
+    width: 100%;
+    font-size: .85em;
+    background:#031b2a;
+    color: #e3e3d0;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  li{
+    padding-top: 15px;
+  }
